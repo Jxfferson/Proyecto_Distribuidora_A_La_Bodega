@@ -8,6 +8,7 @@ Este proyecto es un sitio web para una empresa distribuidora de productos de sal
 - 🛒 Sistema de compras en línea.
 - 📩 Mensajería directa con la empresa.
 - 🔐 Sistema de login con verificación de roles para clientes y administradores.
+- ⌨️ Sistema para administrador con CRUD, lista de pedidos, cantidad de pedidos, etc..
 
 ## 🛠️ Tecnologías Utilizadas
 - **Frontend:** HTML, CSS, JavaScript
@@ -20,7 +21,7 @@ Este proyecto es un sitio web para una empresa distribuidora de productos de sal
    ```sh
    [https://github.com/Jxfferson/Proyecto_Distribuidora_A_La_Bodega.git]
 2. Configura la base de datos:
-   - Importa el archivo `database.sql` en MySQL Workbench.
+   - Importa el archivo `proyectocamilojefferson.sql` en MySQL Workbench.
 3. Configura el servidor:
    - Usa XAMPP o WAMP para ejecutar PHP y MySQL.
 4. Ejecuta el proyecto en tu navegador:
