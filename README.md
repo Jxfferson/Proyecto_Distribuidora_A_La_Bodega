@@ -18,7 +18,7 @@ Este proyecto es un sitio web para una empresa distribuidora de productos de sal
 ## 📂 Instalación
 1. Clona el repositorio:
    ```sh
-   [git clone https://github.com/tu_usuario/tu_repositorio.git]
+   [https://github.com/Jxfferson/Proyecto_Distribuidora_A_La_Bodega.git]
 2. Configura la base de datos:
    - Importa el archivo `database.sql` en MySQL Workbench.
 3. Configura el servidor:
