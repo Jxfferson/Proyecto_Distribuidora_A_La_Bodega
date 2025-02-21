@@ -38,6 +38,6 @@ Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo
 
 ## 📞 Contacto
 Si tienes alguna duda o sugerencia, contáctame en:
-- 📧 Email: tu_email@example.com
-- 🌐 Web: [Tu Sitio Web](https://www.tusitioweb.com)
+- 📧 Email: jeffersonsticcorrealopez@gmail.com
+- 🌐 Web: (https://jefferson-portafolio.onrender.com)
 
